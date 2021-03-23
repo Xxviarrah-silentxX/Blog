@@ -1,0 +1,29 @@
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom-right ;
+   background-size: 100%, 100%;
+}
+
+
+h1 {
+    color:rgb(0, 82, 102)
+}
+
+.header{
+background-color: rgb(37, 51, 241);
+display : flex; 
+justify-content: space-between;
+
+
+
+}
+.grid{
+display: flex;
+flex-wrap: no-wrap;
+justify-content: space-evenly;
+}
+h2,p{
+    text-align: center;
+}
